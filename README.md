@@ -1,9 +1,20 @@
 # NoLooseEnds Homebrew Tap
 
-This is a personal Homebrew Tap for [The Last NFO Viewer](https://github.com/NoLooseEnds/the-last-nfo-viewer).
+This is a personal Homebrew Tap for my macOS applications and tools.
 
 ## Installation
 
+First, add this tap to your Homebrew:
+
 ```bash
-brew install NoLooseEnds/tap/the-last-nfo-viewer
+brew tap NoLooseEnds/tap
+```
+
+## Available Apps (Casks)
+
+### The Last NFO Viewer
+A modern, native macOS application for viewing NFO, ASC, and DIZ files.
+
+```bash
+brew install the-last-nfo-viewer
 ```
