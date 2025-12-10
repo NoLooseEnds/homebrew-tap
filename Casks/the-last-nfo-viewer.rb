@@ -1,6 +1,6 @@
 cask "the-last-nfo-viewer" do
   version "1.0.1"
-  sha256 "91c215a20f03df41c930d764851ef716bb32952c3d1f46163074f8bc6413ceda"
+  sha256 "669c00a5a6d0cf6cc35d3ba850b3f4fe3419203c37011fbd684a8adcf981472a"
 
   url "https://github.com/NoLooseEnds/the-last-nfo-viewer/releases/download/v#{version}/TheLastNFOViewer.zip"
   name "The Last NFO Viewer"
